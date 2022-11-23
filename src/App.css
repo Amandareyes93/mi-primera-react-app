@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+
+body {
+  margin: 0;
+  
+  }
+  
+  header {background: rgb(247, 162, 2); height: 100px}
+  
+  footer {background: rgb(247, 162, 2); width: 100vw ;height: 80px; bottom: 0; position: absolute;}
+  
+  .buttonNavBar {
+    text-decoration: none;
+    padding: 8px;
+    margin: 5px;
+    background: rgb(255, 119, 0);
+    color: white;
+    font-size: 15px;
+  }
+  
+  .Tittle2 {
+    margin-inline-start: 12px; margin-inline-end: 12px;
+    
+  
+  }
+  
+  
+  
+  
